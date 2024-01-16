@@ -1,0 +1,32 @@
+
+@media (max-width: 500px) {
+
+    /* cover */
+    
+    .section_cover_content {
+        width: 388px;
+        height: 120px;
+    }
+
+    .section_cover_content_p {
+        font-size: 32px;
+        margin-bottom: 16px;
+    }
+}
+
+
+
+@media (max-width: 481px) {
+
+    /* header */
+
+    header {
+        padding-inline: 20px;
+    }
+
+    /* Service offers */
+
+    .section_service_offers {
+        padding: 64px 48px;
+    }
+}

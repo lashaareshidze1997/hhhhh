@@ -1,0 +1,16 @@
+@media (max-width: 1025px) {
+
+    /* header */
+
+    header {
+        padding-inline: 32px;
+    }
+
+   
+    /* Service offers */
+
+    .section_service_offers, .section_2_service_offers {
+        padding: 120px 218px;
+    }
+
+}
